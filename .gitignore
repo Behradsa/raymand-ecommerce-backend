@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Database
+db.sqlite3
+
+# Media files (your product images)
+products/*.jpg
+products/*.jpeg
+products/*.png
+products/*.gif
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+
+# Local settings (if you use it)
+local_settings.py
